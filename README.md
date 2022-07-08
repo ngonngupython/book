@@ -1,3 +1,3 @@
 # Ví dụ của sách Ngôn ngữ lập trình Python
-Phan Duy Hùng
+Phan Duy Hùng,
 Lê Đình Huynh
